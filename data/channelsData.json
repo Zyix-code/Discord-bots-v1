@@ -1,0 +1,16 @@
+{
+  "servers": {
+    "1126088466506207322": {
+      "welcomeChanelName": "genel",
+      "botlogChannelName": "bot-log",
+      "rulesChannelName": "rules",
+      "mutedChannelName": "muted"
+    },
+    "1076797886626533386": {
+      "welcomeChanelName": "genel",
+      "botlogChannelName": "bot-log",
+      "rulesChannelName": "rules",
+      "mutedChannelName": "muted"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "servers": {
+    "1126088466506207322": {
+      "serverOwnerRole": "🗝️",
+      "serverFemaleAuthoritativeRole": "🔱 HANIM AĞA",
+      "serverAuthoritativeRole": "💎",
+      "serverAdminRole": "⚔️ Master Of Şövalye",
+      "serverSecurityRole": "🛡️ Güvenlik",
+      "serverMaleMemberRole": "🗡️  Şövalye",
+      "serverFemaleMemberRole": "💗 Premses",
+      "serverMutedRole": "🙊 Muted",
+      "ownerID": "481831692399673375"
+    },
+    "1076797886626533386": {
+      "serverOwnerRole": "🗝️",
+      "serverFemaleAuthoritativeRole": "🔱 HANIM AĞA",
+      "serverAuthoritativeRole": "💎",
+      "serverAdminRole": "⚔️ Master Of Şövalye",
+      "serverSecurityRole": "🛡️ Güvenlik",
+      "serverMaleMemberRole": "🗡️  Şövalye",
+      "serverFemaleMemberRole": "💗 Premses",
+      "serverMutedRole": "🙊 Muted",
+      "ownerID": "481831692399673375"
+    }
+  }
+}

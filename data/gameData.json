@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "1126088466506207322": {
+      "wordGameControl": true,
+      "wordGameChannelControl": "genel",
+      "userPoints": {
+        "481831692399673375": 1,
+        "796435534452883499": 2
+      },
+      "typingGameControl": false
+    }
+  }
+}
