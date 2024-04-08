@@ -44,5 +44,5 @@
    ilk defa discord botu yaptım onu da hatıra olsun diye buraya ekledim ^^<br>
 • Kendinize göre özelleştirebilir, kullanabilirsiniz. Daha detaylı, daha iyi özelliklere sahip daha güncel bot yaptığımda tekrar paylaşırım.
 </samp>
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
+Bu proje GNU Genel Kamu Lisansı (GPL) altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
 </p>
