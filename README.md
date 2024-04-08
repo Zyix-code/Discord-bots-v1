@@ -49,4 +49,3 @@
    © 2024 [Selçuk Şahin](https://github.com/Zyix-code)
 </samp>
 </p>
-</p>
