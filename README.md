@@ -41,7 +41,7 @@
 
 <p align="center">
  <samp>
-   ilk defa discord botu yaptım onu da hatıra olsun diye buraya ekledim ^^
+   ilk defa discord botu yaptım onu da hatıra olsun diye buraya ekledim ^^<br>
 • Kendinize göre özelleştirebilir, kullanabilirsiniz. Daha detaylı, daha iyi özelliklere sahip daha güncel bot yaptığımda tekrar paylaşırım.
 </samp>
 </p>
