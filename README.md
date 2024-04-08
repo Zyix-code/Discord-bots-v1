@@ -43,9 +43,9 @@
  <samp>
    ilk defa discord botu yaptım onu da hatıra olsun diye buraya ekledim ^^<br>
 • Kendinize göre özelleştirebilir, kullanabilirsiniz. Daha detaylı, daha iyi özelliklere sahip daha güncel bot yaptığımda tekrar paylaşırım.<br>
-<p align="center">
-  
+   
    ---
+   <p align="center">
 **Lisans:** Bu proje [GNU Genel Kamu Lisansı](https://www.gnu.org/licenses/gpl-3.0.html) (GPL), sürüm 3.0 altında dağıtılmaktadır. Projenin tüm kullanıcıları, lisansın koşullarına uymak kaydıyla projeyi özgürce kullanabilir, değiştirebilir ve paylaşabilir. Daha fazla bilgi için [LİSANS](LICENSE) dosyasına bakabilirsiniz.<br>
    © 2024 [Selçuk Şahin](https://github.com/Zyix-code)
 </samp>
