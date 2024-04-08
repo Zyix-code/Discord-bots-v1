@@ -45,7 +45,7 @@
 • Kendinize göre özelleştirebilir, kullanabilirsiniz. Daha detaylı, daha iyi özelliklere sahip daha güncel bot yaptığımda tekrar paylaşırım.<br>
 
 Bu proje GNU Genel Kamu Lisansı, sürüm 3.0 [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html) altında dağıtılmaktadır.<br>
-Copyright © 2024 Selçuk Şahin<br>
+Copyright © 2024 [Selçuk Şahin](https://github.com/Zyix-code)<br>
 Daha fazla bilgi için [LİSANS](LICENSE) dosyasına bakın.<br>
 
 </samp>
