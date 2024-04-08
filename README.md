@@ -43,6 +43,10 @@
  <samp>
    ilk defa discord botu yaptım onu da hatıra olsun diye buraya ekledim ^^<br>
 • Kendinize göre özelleştirebilir, kullanabilirsiniz. Daha detaylı, daha iyi özelliklere sahip daha güncel bot yaptığımda tekrar paylaşırım.
+
+Bu proje GNU Genel Kamu Lisansı, sürüm 3.0 (GPL-3.0) altında dağıtılmaktadır.
+Copyright © 2024 Selçuk Şahin
+Daha fazla bilgi için [LİSANS](LİSANS) dosyasına bakın.
+
 </samp>
-Bu proje GNU Genel Kamu Lisansı (GPL) altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
 </p>
