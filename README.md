@@ -46,7 +46,7 @@
 
 Bu proje GNU Genel Kamu Lisansı, sürüm 3.0 (GPL-3.0) altında dağıtılmaktadır.<br>
 Copyright © 2024 Selçuk Şahin<br>
-Daha fazla bilgi için [LICENSE](LİSANS) dosyasına bakın.<br>
+Daha fazla bilgi için [LİSANS](LICENSE) dosyasına bakın.<br>
 
 </samp>
 </p>
