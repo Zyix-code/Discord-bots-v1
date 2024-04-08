@@ -40,12 +40,11 @@
 </p>
 
 <p align="center">
- <samp>
-   ilk defa discord botu yaptım onu da hatıra olsun diye buraya ekledim ^^<br>
-• Kendinize göre özelleştirebilir, kullanabilirsiniz. Daha detaylı, daha iyi özelliklere sahip daha güncel bot yaptığımda tekrar paylaşırım.<br>
-   
-   ---
-**Lisans:** Bu proje [GNU Genel Kamu Lisansı](https://www.gnu.org/licenses/gpl-3.0.html) (GPL), sürüm 3.0 altında dağıtılmaktadır. Projenin tüm kullanıcıları, lisansın koşullarına uymak kaydıyla projeyi özgürce kullanabilir, değiştirebilir ve paylaşabilir. Daha fazla bilgi için [LİSANS](LICENSE) dosyasına bakabilirsiniz.<br>
-   © 2024 [Selçuk Şahin](https://github.com/Zyix-code)
-</samp>
+   <samp>
+      İlk defa Discord botu yaptım, bu da benim için bir anı olsun diye buraya ekledim ^^<br>
+      Kendinize göre özelleştirebilir, kullanabilirsiniz. Daha detaylı ve daha gelişmiş özelliklere sahip yeni bir bot yaptığımda, bunu tekrar paylaşacağım.<br>
+      <hr>
+      <strong>Lisans:</strong> Bu proje <a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU Genel Kamu Lisansı</a> (GPL), sürüm 3.0 altında dağıtılmaktadır. Projenin tüm kullanıcıları, lisansın koşullarına uymak kaydıyla projeyi özgürce kullanabilir, değiştirebilir ve paylaşabilir. Daha fazla bilgi için <a href="LICENSE">LİSANS</a> dosyasına bakabilirsiniz.<br>
+      &copy; 2024 <a href="https://github.com/Zyix-code">Selçuk Şahin</a>
+   </samp>
 </p>
