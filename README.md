@@ -59,3 +59,13 @@ npm install
 
 # Botu başlat
 node index.js
+(Not: config.json veya .env dosyasına kendi Bot Tokeninizi girmeyi unutmayın.)
+```
+
+⚖️ Lisans
+Bu proje GNU General Public License v3.0 ile lisanslanmıştır. Projenin tüm kullanıcıları, lisansın koşullarına uymak kaydıyla projeyi özgürce kullanabilir, değiştirebilir ve paylaşabilir.
+
+🤝 İletişim
+<p align="left"> <a href="https://discordapp.com/users/481831692399673375"><img src="https://img.shields.io/badge/Discord-Zyix%231002-7289DA?logo=discord&style=flat-square"></a> <a href="https://www.youtube.com/channel/UC7uBi3y2HOCLde5MYWECynQ?view_as=subscriber"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=flat-square"></a> <a href="https://www.reddit.com/user/_Zyix"><img src="https://img.shields.io/badge/Reddit-Profile-orange?logo=reddit&style=flat-square"></a> <a href="https://open.spotify.com/user/07288iyoa19459y599jutdex6"><img src="https://img.shields.io/badge/Spotify-Follow-green?logo=spotify&style=flat-square"></a> </p>
+
+<p align="center"> <samp>© 2026 Selçuk Şahin</samp> </p>
